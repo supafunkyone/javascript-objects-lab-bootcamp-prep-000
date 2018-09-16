@@ -1,1 +1,1 @@
-var obj = 'recipes';
+newObj
