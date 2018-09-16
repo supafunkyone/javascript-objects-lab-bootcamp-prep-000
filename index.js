@@ -1,1 +1,1 @@
-newObj
+new Object('recipes');
